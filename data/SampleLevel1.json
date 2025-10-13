@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 116174063,
+    "name": "Every End",
+    "author": "MindCap",
+    "creators": ["Koreaqwer", "npesta", "Krmal", "Pennutoh", "lolwut", "MindCap", "Djoxy", "StarkyTheSalad", "cobrablitz", "Cryonix6000", "Blitzer", "LeftUnknown"],
+    "verifier": "Hqmy",
+    "verification": "https://www.youtube.com/watch?v=AO--mVVFtKI",
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "zZoink",
+            "link": "https://www.youtube.com/watch?v=ZyRmgwSh5tQ",
             "percent": 100,
-            "hz": 360
+            "hz": 240
         }
     ]
 }
