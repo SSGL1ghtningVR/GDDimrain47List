@@ -1,17 +1,17 @@
 {
-    "id": 116174063,
-    "name": "Every End",
-    "author": "MindCap",
-    "creators": ["Koreaqwer", "npesta", "Krmal", "Pennutoh", "lolwut", "MindCap", "Djoxy", "StarkyTheSalad", "cobrablitz", "Cryonix6000", "Blitzer", "LeftUnknown"],
-    "verifier": "Hqmy",
-    "verification": "https://www.youtube.com/watch?v=AO--mVVFtKI",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "id": 105,
+    "name": "Insanextreme Demon",
+    "author": "SSGL1ghtningVR",
+    "creators": ["SSGChoppaM", "SSGL1ghtningVR""],
+    "verifier": "SSGL1ghtningVR",
+    "verification": "N/A",
+    "percentToQualify": 36,
+    "password": "N/A",
     "records": [
         {
-            "user": "zZoink",
-            "link": "https://www.youtube.com/watch?v=ZyRmgwSh5tQ",
-            "percent": 100,
+            "user": "Placeholder",
+            "link": "N/A",
+            "percent": 36,
             "hz": 240
         }
     ]
